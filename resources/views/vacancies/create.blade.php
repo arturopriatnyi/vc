@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2>Add New Post</h2>
+                <h2>Add new vacancy</h2>
             </div>
             <div class="pull-right">
                 <a class="btn btn-primary" href="{{ route('vacancies.index') }}"> Back</a>

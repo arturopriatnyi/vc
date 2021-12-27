@@ -4,7 +4,7 @@
     <div class="row">
         <div class="col-lg-12 margin-tb">
             <div class="pull-left">
-                <h2>Edit Post</h2>
+                <h2>Edit vacancy</h2>
             </div>
             <div class="pull-right">
                 <a class="btn btn-primary" href="{{ route('vacancies.index') }}"> Back</a>
@@ -49,7 +49,7 @@
             </div>
 
             <div class="col-xs-6 col-sm-6 col-md-6">
-                <div class="form-group">
+                <div class="form-group">pa
                     <strong>Salary max:</strong>
                     <input type="text" name="salary_max" value="{{ $vacancy->salary_max }}" class="form-control" placeholder="Salary max">
                 </div>
